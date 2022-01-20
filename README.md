@@ -1,4 +1,4 @@
-### 👋 Hi Everyone.
+### 👋 Hi, Welcome.
 - ✨ My name is Rizwan.
 - 🌱 I’m currently enrolled in a university doing BSCS.
 - 🌠 My hobbies include listening to music, playing video games, and working out.
