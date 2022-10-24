@@ -1,6 +1,6 @@
 ### 👋 Hi, Welcome.
 - ✨ My name is Rizwan.
-- 🌱 I’m currently enrolled in a university doing BSCS.
+- 🌱 I’m a full stack software engineer.
 - 🌠 My hobbies include listening to music, playing video games, and working out.
 
 #### 📫 How to reach me:
