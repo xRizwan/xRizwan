@@ -1,10 +1,13 @@
-Software engineer with six years building production web platforms. Currently a frontend
-engineer at Worklio, working across React, Vue and TypeScript with C#/.NET and Node.js services
-behind them.
+Software engineer, six years building production web apps. Mostly React, Vue and TypeScript, with
+C#/.NET and Node.js behind them.
 
-Most of my professional work lives in private repositories, so this profile reflects side
-projects and coursework rather than my day-to-day. Happy to walk through the production work
-directly.
+Currently working through machine learning properly — building things from scratch instead of
+calling the library and hoping, which is how
+[neural-network-from-scratch](https://github.com/xRizwan/neural-network-from-scratch) happened.
+Also finishing a BSc in Computer Science.
+
+Most of my professional work is in private repos, so what's public here is side projects and
+coursework.
 
 ### Stack
 
