@@ -1,11 +1,21 @@
-### 👋 Hi, Welcome.
-- ✨ My name is Rizwan.
-- 🌱 I’m a full stack software engineer.
-- 🌠 My hobbies include listening to music, playing video games, and working out.
+Software engineer with six years building production web platforms. Currently a frontend
+engineer at Worklio, working across React, Vue and TypeScript with C#/.NET and Node.js services
+behind them.
 
-#### 📫 How to reach me:
-You can reach me at the email in my github profile or on my [Linkedin](https://www.linkedin.com/in/muhammad-rizwan-3886511b9/).
+Most of my professional work lives in private repositories, so this profile reflects side
+projects and coursework rather than my day-to-day. Happy to walk through the production work
+directly.
 
-<a href="https://github.com/xRizwan/xRizwan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRizwan&hide=ShaderLab,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+### Stack
+
+`TypeScript` · `React` · `Vue` · `Node.js` · `C# / .NET` · `PostgreSQL` · `Python` and more.
+
+### Currently
+
+Building machine learning fundamentals from the ground up — see
+[neural-network-from-scratch](https://github.com/xRizwan/neural-network-from-scratch).
+Completed DeepLearning.AI specializations and the Hugging Face LLM course.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-j/) · Remote, UTC+5
