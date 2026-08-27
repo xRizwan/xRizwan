@@ -1,5 +1,5 @@
 Software engineer, six years building production web apps. Mostly React, Vue and TypeScript, with
-C#/.NET and Node.js behind them.
+Python and Node.js behind them.
 
 Currently working through machine learning properly — building things from scratch instead of
 calling the library and hoping, which is how
