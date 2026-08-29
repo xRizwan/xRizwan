@@ -21,4 +21,4 @@ Completed DeepLearning.AI specializations and the Hugging Face LLM course.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-j/) · Remote, UTC+5
+[LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-j/)
